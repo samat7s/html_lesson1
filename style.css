@@ -1,0 +1,11 @@
+* {
+    background-color: antiquewhite;
+}
+
+p {
+    font-size: 20px;
+    background-color: black;
+    color: coral;
+    border: solid 7px rgb(138, 28, 28);
+    margin-top: 50px;
+}
